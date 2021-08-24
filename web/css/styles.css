@@ -437,7 +437,7 @@ input[type='checkbox'] {
 }
 
 .navbar .logo-text {
-	color: #676861;
+	color: #7192be;
 	font-weight: 700;
 	font-size: 1.625rem;
 	line-height: 1rem;
@@ -620,7 +620,7 @@ input[type='checkbox'] {
 .basic-3 {
 	padding-top: 8rem;
 	padding-bottom: 8.5rem;
-	background: linear-gradient(to bottom right, rgba(113, 146, 190, 0.9), rgba(214, 147, 145, 0.9)), url('../images/invitation-background.jpg') center center no-repeat;
+	background: linear-gradient(to bottom right, rgba(113, 146, 190, 0.7), rgba(214, 147, 145, 0.7)), url('../images/sky.png') center center no-repeat;
 	background-size: cover;
 	text-align: center;
 }
